@@ -47,14 +47,6 @@ Once your bot is online, just type `/OBVGREEN` in any channel where the bot has 
 
 No problem! Just replace the `obvgreen_image.png` file with whatever image you want. The bot will automatically use your new image.
 
-## Sharing on GitHub 📚
-
-Want to share this project or back it up? Here's how I set it up for GitHub:
-
-### Creating a new repository
-1. Go to https://github.com and create a new repository
-2. Give it a name like `discord-obvgreen-bot` or whatever you prefer
-
 ## Need help? 🤝
 
 If you run into any issues, double-check that:
@@ -67,3 +59,4 @@ That's it! Enjoy your new Discord bot! 🎉
 ---
 
 *Made with ❤️ by TuryTury*
+
