@@ -55,46 +55,6 @@ Want to share this project or back it up? Here's how I set it up for GitHub:
 1. Go to https://github.com and create a new repository
 2. Give it a name like `discord-obvgreen-bot` or whatever you prefer
 
-### Uploading your code
-```bash
-# Initialize git (if you haven't already)
-git init
-
-# Add all files
-git add .
-
-# Make your first commit
-git commit -m "🎉 Initial commit: My awesome OBVGREEN Discord bot"
-
-# Connect to your GitHub repo
-git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-
-# Push to GitHub
-git push -u origin main
-```
-
-### Security note 🔒
-Don't worry about your bot token! I've set up a `.gitignore` file that prevents your `.env` file (which contains your token) from being uploaded to GitHub. Your token stays safe on your computer!
-
-### Using the code on another computer
-If you want to run this bot somewhere else:
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
-pip install -r requirements.txt
-# Then create your .env file with your bot token
-```
-
-## Project Structure 📁
-
-Here's what each file does:
-- `main.py` - The main bot code (the brain of the operation!)
-- `requirements.txt` - All the Python packages we need
-- `obvgreen_image.png` - The image that gets sent
-- `run.bat` - Quick way to start the bot on Windows
-- `.env.example` - Template for your environment variables
-- `.gitignore` - Keeps sensitive files safe from GitHub
-
 ## Need help? 🤝
 
 If you run into any issues, double-check that:
@@ -105,4 +65,5 @@ If you run into any issues, double-check that:
 That's it! Enjoy your new Discord bot! 🎉
 
 ---
+
 *Made with ❤️ by TuryTury*
